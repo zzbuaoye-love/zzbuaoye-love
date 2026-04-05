@@ -1,16 +1,16 @@
-## Hi there 👋
+# zzbuaoye
 
-<!--
-**zzbuaoye-love/zzbuaoye-love** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a hobby
 
-Here are some ideas to get you started:
+## Tech Stack
+| Category | Technologies |
+|----------|--------------|
+| Languages | HTML |
+| Frameworks | FastAPI, Next.js, React |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- Repository: https://github.com/zzbuaoye-love
+- Email: zzbuaoye@qq.com
+- Other: https://g.zzbuaoye.top
+
+Thank you for visiting. Feel free to explore my projects or reach out for collaboration.
