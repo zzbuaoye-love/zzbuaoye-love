@@ -11,6 +11,6 @@ Just a hobby
 ## Connect
 - Repository: https://github.com/zzbuaoye-love
 - Email: zzbuaoye@qq.com
-- Other: https://g.zzbuaoye.top
+- Other: https://zzbuaoye.net
 
 Thank you for visiting. Feel free to explore my projects or reach out for collaboration.
